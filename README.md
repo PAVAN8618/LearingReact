@@ -7,3 +7,5 @@ react element => objet => html element(render)
 jsx => jsx is not html inside js
 
 jsx is just like a html like syntex
+
+confix driven ui
